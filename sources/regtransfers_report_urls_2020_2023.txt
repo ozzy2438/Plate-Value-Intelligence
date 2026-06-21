@@ -1,0 +1,24 @@
+# Regtransfers DVLA auction report URLs discovered for 2020-2023.
+# Use these for browser-save workflow first.
+# Direct terminal fetching from this environment is often blocked by Cloudflare.
+
+https://www.regtransfers.co.uk/content/dvla-auction-results
+https://www.regtransfers.co.uk/content/dvla-s-december-2021-auction
+https://www.regtransfers.co.uk/content/top-sales-of-2021
+https://www.regtransfers.co.uk/content/dvla-s-january-2022-auction
+https://www.regtransfers.co.uk/content/auction-report-april-2022-dvla-auction
+https://www.regtransfers.co.uk/content/auction-report-may-2022-dvla-auction
+https://www.regtransfers.co.uk/content/dvla-auction-results-june-2022
+https://www.regtransfers.co.uk/content/dvla-auction-in-july-and-august-2022
+https://www.regtransfers.co.uk/content/september-2022-dvla-auction
+https://www.regtransfers.co.uk/content/dvla-auction-october-2022
+https://www.regtransfers.co.uk/content/dvla-auction-november-2022
+https://www.regtransfers.co.uk/content/dvla-auction-january-2023
+https://www.regtransfers.co.uk/content/dvla-auction-february-2023
+https://www.regtransfers.co.uk/content/dvla-auction-march-april-2023
+https://www.regtransfers.co.uk/content/dvla-auction-may-2023
+https://www.regtransfers.co.uk/content/dvla-auction-june-2023
+https://www.regtransfers.co.uk/content/dvla-auction-report-july-2023
+https://www.regtransfers.co.uk/content/dvla-auction-september-2023
+https://www.regtransfers.co.uk/content/dvla-auction-october-2023
+https://www.regtransfers.co.uk/content/dvla-auction-november-2023

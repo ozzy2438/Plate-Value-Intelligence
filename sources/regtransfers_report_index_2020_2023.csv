@@ -1,0 +1,21 @@
+auction_year,auction_month,label,url,coverage_type,notes
+2020,February,DVLA auction results,https://www.regtransfers.co.uk/content/dvla-auction-results,auction_report,Single known 2020 report page discovered in archive.
+2021,December,DVLA Auction December 2021,https://www.regtransfers.co.uk/content/dvla-s-december-2021-auction,auction_report,Contains a narrative top-performers list.
+2021,YearSummary,Our top selling number plates of 2021,https://www.regtransfers.co.uk/content/top-sales-of-2021,year_summary,Mixed Regtransfers and DVLA year summary rather than one auction.
+2022,January,New DVLA auction plates January 2022,https://www.regtransfers.co.uk/content/dvla-s-january-2022-auction,auction_report,Online auction.
+2022,April,DVLA Auction in April 2022,https://www.regtransfers.co.uk/content/auction-report-april-2022-dvla-auction,auction_report,Contains a structured top-prices table.
+2022,May,DVLA Auction in May 2022,https://www.regtransfers.co.uk/content/auction-report-may-2022-dvla-auction,auction_report,Search snippet indicates full top-100 list.
+2022,June,DVLA Auction Results June 2022,https://www.regtransfers.co.uk/content/dvla-auction-results-june-2022,auction_report,Online auction summary.
+2022,JulyAugust,DVLA Auction July and August 2022,https://www.regtransfers.co.uk/content/dvla-auction-in-july-and-august-2022,auction_report,Combined period report.
+2022,September,DVLA online auction September 2022,https://www.regtransfers.co.uk/content/september-2022-dvla-auction,auction_report,Search snippet says it contains a table of top sales.
+2022,October,DVLA auction October 2022,https://www.regtransfers.co.uk/content/dvla-auction-october-2022,auction_report,Search snippet says it contains a table of top performers.
+2022,November,DVLA auction November 2022,https://www.regtransfers.co.uk/content/dvla-auction-november-2022,auction_report,Online-only event.
+2023,January,DVLA auction January 2023,https://www.regtransfers.co.uk/content/dvla-auction-january-2023,auction_report,Online auction.
+2023,February,DVLA auction February 2023,https://www.regtransfers.co.uk/content/dvla-auction-february-2023,auction_report,Live venue event.
+2023,MarchApril,DVLA auction March/April 2023,https://www.regtransfers.co.uk/content/dvla-auction-march-april-2023,auction_report,Combined period report.
+2023,May,DVLA auction May 2023,https://www.regtransfers.co.uk/content/dvla-auction-may-2023,auction_report,Online auction.
+2023,June,DVLA auction June 2023,https://www.regtransfers.co.uk/content/dvla-auction-june-2023,auction_report,Live venue event.
+2023,July,DVLA auction report July 2023,https://www.regtransfers.co.uk/content/dvla-auction-report-july-2023,auction_report,Search snippet exposes July stats.
+2023,September,DVLA auction September 2023,https://www.regtransfers.co.uk/content/dvla-auction-september-2023,auction_report,Online auction.
+2023,October,DVLA auction October 2023,https://www.regtransfers.co.uk/content/dvla-auction-october-2023,auction_report,Live event and likely last live DVLA auction.
+2023,November,DVLA auction November 2023,https://www.regtransfers.co.uk/content/dvla-auction-november-2023,auction_report,Links back to October 2023 report.
