@@ -1,0 +1,15 @@
+metric,value
+Total records,18000.0
+Auction events,9.0
+Unique event-lot keys,18000.0
+Full-row duplicates,0.0
+Duplicate event-lot keys,0.0
+Missing lot numbers,0.0
+Recorded hammer prices,17782.0
+Prices not recorded,218.0
+Price completeness,98.78888888888889
+Zero prices,0.0
+Negative prices,0.0
+Minimum recorded price,200.0
+Median recorded price,1510.0
+Maximum recorded price,102010.0
