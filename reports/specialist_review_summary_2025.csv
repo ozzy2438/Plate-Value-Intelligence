@@ -1,0 +1,6 @@
+specialist_review_required,specialist_review_reason,plate_count,median_price_gbp,median_collectibility_score
+0,standard_automated_path,15935,1220.0,15.0
+1,high_market_value_not_fully_explained,1084,7570.0,25.0
+1,structural_collectibility_above_observed_value,340,4010.0,57.0
+1,very_high_structural_collectibility,256,9005.0,62.0
+1,very_high_structural_collectibility|structural_collectibility_above_observed_value,167,4000.0,62.0

@@ -1,0 +1,559 @@
+event_code,lot_number,plate_raw,hammer_price_gbp,collectibility_score,collectibility_segment,is_premium_top_10pct,is_premium_top_5pct,is_premium_top_1pct,plate_length,numeric_value,plate_pattern,plate_format_group
+B274,646,8 FU,90000.0,70,Trophy Candidate,1,1,1,3,8,DLL,digits_then_letters
+B274,1951,9 XN,45010.0,70,Trophy Candidate,1,1,1,3,9,DLL,digits_then_letters
+B273,635,7 FU,42510.0,70,Trophy Candidate,1,1,1,3,7,DLL,digits_then_letters
+B271,643,3 FU,70000.0,65,Trophy Candidate,1,1,1,3,3,DLL,digits_then_letters
+B272,1342,1 ORO,26260.0,64,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B278,1209,8 MMR,20530.0,64,Trophy Candidate,1,1,1,4,8,DLLL,digits_then_letters
+B272,1773,1 TLT,18140.0,64,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B273,962,7 KKS,15010.0,64,Trophy Candidate,1,1,1,4,7,DLLL,digits_then_letters
+B275,1830,1 TXX,14510.0,64,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B272,1908,7 WOW,14080.0,64,Trophy Candidate,1,1,1,4,7,DLLL,digits_then_letters
+B276,1353,9 OAT,62030.0,62,Trophy Candidate,1,1,1,4,9,DLLL,digits_then_letters
+B271,1567,RVS 1,26010.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B278,568,EMZ 1,25510.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B273,902,JSK 7,25210.0,62,Trophy Candidate,1,1,1,4,7,LLLD,letters_then_digits
+B273,1236,MVS 1,25110.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B278,1975,YDS 1,24010.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B270,816,7 HSK,23510.0,62,Trophy Candidate,1,1,1,4,7,DLLL,digits_then_letters
+B272,1345,OSK 1,22500.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B275,1870,1 VLW,21010.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B277,904,JSK 8,20120.0,62,Trophy Candidate,1,1,1,4,8,LLLD,letters_then_digits
+B273,457,DMZ 1,19010.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B273,1870,1 VSK,19000.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B273,1991,1 YOB,18200.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B278,1903,1 WHL,18020.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B274,1942,XIG 1,18010.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B277,1863,1 VRK,17110.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B278,760,9 HEN,17110.0,62,Trophy Candidate,1,1,1,4,9,DLLL,digits_then_letters
+B276,629,7 FUN,17010.0,62,Trophy Candidate,1,1,1,4,7,DLLL,digits_then_letters
+B278,1553,1 RVM,17010.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B277,178,AVZ 1,16610.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B278,1834,1 UDN,16610.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B270,658,FSZ 1,16540.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B270,1429,8 PKB,16310.0,62,Trophy Candidate,1,1,1,4,8,DLLL,digits_then_letters
+B278,1767,1 TDX,16020.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B271,1829,1 UBO,16010.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B273,1075,1 LTR,16010.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B272,1704,1 SUC,15520.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B272,495,8 ECL,15010.0,62,Trophy Candidate,1,1,1,4,8,DLLL,digits_then_letters
+B272,1071,1 LYK,15010.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B272,1420,9 PSL,15010.0,62,Trophy Candidate,1,1,1,4,9,DLLL,digits_then_letters
+B274,1347,1 OLB,14610.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B271,1768,1 THL,14510.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B277,1992,1 YSC,14510.0,62,Trophy Candidate,1,1,1,4,1,DLLL,digits_then_letters
+B272,1793,TRZ 1,14020.0,62,Trophy Candidate,1,1,1,4,1,LLLD,letters_then_digits
+B278,1350,5 OOG,15000.0,59,High Collectible,1,1,1,4,5,DLLL,digits_then_letters
+B271,1908,5 WOW,14310.0,59,High Collectible,1,1,1,4,5,DLLL,digits_then_letters
+B270,1371,86 OO,25760.0,57,High Collectible,1,1,1,4,86,DDLL,digits_then_letters
+B277,741,HMZ 4,25160.0,57,High Collectible,1,1,1,4,4,LLLD,letters_then_digits
+B271,1566,6 RUP,24510.0,57,High Collectible,1,1,1,4,6,DLLL,digits_then_letters
+B276,1690,91 SS,23110.0,57,High Collectible,1,1,1,4,91,DDLL,digits_then_letters
+B275,1356,74 OO,23010.0,57,High Collectible,1,1,1,4,74,DDLL,digits_then_letters
+B272,1330,61 OO,20510.0,57,High Collectible,1,1,1,4,61,DDLL,digits_then_letters
+B276,782,5 HSK,20010.0,57,High Collectible,1,1,1,4,5,DLLL,digits_then_letters
+B276,1829,5 ULE,20010.0,57,High Collectible,1,1,1,4,5,DLLL,digits_then_letters
+B275,676,2 GUD,19030.0,57,High Collectible,1,1,1,4,2,DLLL,digits_then_letters
+B278,1817,5 TSB,18710.0,57,High Collectible,1,1,1,4,5,DLLL,digits_then_letters
+B278,935,JSK 2,18530.0,57,High Collectible,1,1,1,4,2,LLLD,letters_then_digits
+B272,1959,95 XX,18510.0,57,High Collectible,1,1,1,4,95,DDLL,digits_then_letters
+B278,166,AVI 3,18010.0,57,High Collectible,1,1,1,4,3,LLLD,letters_then_digits
+B278,1997,2 YUS,17110.0,57,High Collectible,1,1,1,4,2,DLLL,digits_then_letters
+B275,148,AVI 2,17010.0,57,High Collectible,1,1,1,4,2,LLLD,letters_then_digits
+B277,749,3 HOW,16120.0,57,High Collectible,1,1,1,4,3,DLLL,digits_then_letters
+B272,1886,6 WAS,16000.0,57,High Collectible,1,1,1,4,6,DLLL,digits_then_letters
+B270,1502,3 RGN,15630.0,57,High Collectible,1,1,1,4,3,DLLL,digits_then_letters
+B271,1339,4 OCM,15540.0,57,High Collectible,1,1,1,4,4,DLLL,digits_then_letters
+B270,1369,3 ONE,15120.0,57,High Collectible,1,1,1,4,3,DLLL,digits_then_letters
+B272,1022,2 LHM,15060.0,57,High Collectible,1,1,1,4,2,DLLL,digits_then_letters
+B276,1348,52 O,102010.0,55,High Collectible,1,1,1,3,52,DDL,digits_then_letters
+B274,1,95 A,71010.0,55,High Collectible,1,1,1,3,95,DDL,digits_then_letters
+B274,1332,98 O,63100.0,55,High Collectible,1,1,1,3,98,DDL,digits_then_letters
+B273,1309,54 O,56510.0,55,High Collectible,1,1,1,3,54,DDL,digits_then_letters
+B276,1960,XXX 77,20010.0,53,High Collectible,1,1,1,5,77,LLLDD,letters_then_digits
+B274,1333,90 OA,14110.0,52,High Collectible,1,1,1,4,90,DDLL,digits_then_letters
+B270,1847,18 UY,20030.0,47,High Collectible,1,1,1,4,18,DDLL,digits_then_letters
+B276,1377,41 OM,19050.0,47,High Collectible,1,1,1,4,41,DDLL,digits_then_letters
+B274,784,96 HL,15000.0,47,High Collectible,1,1,1,4,96,DDLL,digits_then_letters
+B278,1984,15 YK,14060.0,47,High Collectible,1,1,1,4,15,DDLL,digits_then_letters
+B275,1716,SSH 11,18050.0,45,High Collectible,1,1,1,5,11,LLLDD,letters_then_digits
+B278,1964,123 Y,16150.0,45,High Collectible,1,1,1,4,123,DDDL,digits_then_letters
+B275,913,11 JWW,15530.0,45,High Collectible,1,1,1,5,11,DDLLL,digits_then_letters
+B271,1334,66 OAT,31010.0,43,Collectible,1,1,1,5,66,DDLLL,digits_then_letters
+B277,276,11 BUX,22250.0,43,Collectible,1,1,1,5,11,DDLLL,digits_then_letters
+B275,1017,77 LAW,21510.0,43,Collectible,1,1,1,5,77,DDLLL,digits_then_letters
+B275,1414,11 PKS,20100.0,43,Collectible,1,1,1,5,11,DDLLL,digits_then_letters
+B272,1541,11 RUN,19010.0,43,Collectible,1,1,1,5,11,DDLLL,digits_then_letters
+B277,1994,11 YSF,17510.0,43,Collectible,1,1,1,5,11,DDLLL,digits_then_letters
+B271,22,ABS 22,15010.0,43,Collectible,1,1,1,5,22,LLLDD,letters_then_digits
+B274,1334,OAS 1S,56040.0,42,Collectible,1,1,1,5,1,LLLDL,letters_digits_letters
+B271,1969,160 Y,24010.0,42,Collectible,1,1,1,4,160,DDDL,digits_then_letters
+B275,1886,810 W,21010.0,42,Collectible,1,1,1,4,810,DDDL,digits_then_letters
+B276,5,AAD 8M,20000.0,42,Collectible,1,1,1,5,8,LLLDL,letters_digits_letters
+B272,463,DRM 1R,19530.0,42,Collectible,1,1,1,5,1,LLLDL,letters_digits_letters
+B270,1580,610 S,16410.0,42,Collectible,1,1,1,4,610,DDDL,digits_then_letters
+B274,651,180 G,16010.0,42,Collectible,1,1,1,4,180,DDDL,digits_then_letters
+B274,174,810 B,15520.0,42,Collectible,1,1,1,4,810,DDDL,digits_then_letters
+B276,641,520 G,15030.0,42,Collectible,1,1,1,4,520,DDDL,digits_then_letters
+B273,1972,130 Y,15020.0,42,Collectible,1,1,1,4,130,DDDL,digits_then_letters
+B274,801,HRR 1S,15020.0,42,Collectible,1,1,1,5,1,LLLDL,letters_digits_letters
+B271,1922,190 X,15010.0,42,Collectible,1,1,1,4,190,DDDL,digits_then_letters
+B274,1853,150 V,14020.0,42,Collectible,1,1,1,4,150,DDDL,digits_then_letters
+B272,1308,101 O,91020.0,40,Collectible,1,1,1,4,101,DDDL,digits_then_letters
+B278,1805,TON 1S,51020.0,40,Collectible,1,1,1,5,1,LLLDL,letters_digits_letters
+B277,1328,303 O,30010.0,40,Collectible,1,1,1,4,303,DDDL,digits_then_letters
+B275,1328,121 O,23360.0,40,Collectible,1,1,1,4,121,DDDL,digits_then_letters
+B271,415,DAM 1T,21090.0,40,Collectible,1,1,1,5,1,LLLDL,letters_digits_letters
+B275,1,599 A,20030.0,40,Collectible,1,1,1,4,599,DDDL,digits_then_letters
+B272,178,112 B,20010.0,40,Collectible,1,1,1,4,112,DDDL,digits_then_letters
+B276,286,155 C,17290.0,40,Collectible,1,1,1,4,155,DDDL,digits_then_letters
+B273,1095,171 M,16010.0,40,Collectible,1,1,1,4,171,DDDL,digits_then_letters
+B277,188,AYD 9N,16010.0,40,Collectible,1,1,1,5,9,LLLDL,letters_digits_letters
+B272,1904,WNG 1T,15510.0,40,Collectible,1,1,1,5,1,LLLDL,letters_digits_letters
+B271,1576,707 S,15460.0,40,Collectible,1,1,1,4,707,DDDL,digits_then_letters
+B273,1824,UBA 9D,14510.0,40,Collectible,1,1,1,5,9,LLLDL,letters_digits_letters
+B277,1914,296 X,25010.0,37,Collectible,1,1,1,4,296,DDDL,digits_then_letters
+B278,1123,154 M,24990.0,37,Collectible,1,1,1,4,154,DDDL,digits_then_letters
+B271,190,105 B,21710.0,37,Collectible,1,1,1,4,105,DDDL,digits_then_letters
+B277,1,106 A,20510.0,37,Collectible,1,1,1,4,106,DDDL,digits_then_letters
+B275,1276,104 N,20000.0,37,Collectible,1,1,1,4,104,DDDL,digits_then_letters
+B273,1,105 A,18510.0,37,Collectible,1,1,1,4,105,DDDL,digits_then_letters
+B275,622,105 G,17610.0,37,Collectible,1,1,1,4,105,DDDL,digits_then_letters
+B275,1567,981 S,16510.0,37,Collectible,1,1,1,4,981,DDDL,digits_then_letters
+B270,836,189 J,16290.0,37,Collectible,1,1,1,4,189,DDDL,digits_then_letters
+B275,1379,247 P,16130.0,37,Collectible,1,1,1,4,247,DDDL,digits_then_letters
+B272,278,154 C,16010.0,37,Collectible,1,1,1,4,154,DDDL,digits_then_letters
+B277,691,104 H,14280.0,37,Collectible,1,1,1,4,104,DDDL,digits_then_letters
+B271,1329,918 O,14030.0,37,Collectible,1,1,1,4,918,DDDL,digits_then_letters
+B271,1381,PAD 6L,25000.0,35,Collectible,1,1,1,5,6,LLLDL,letters_digits_letters
+B277,1372,PAD 5L,25000.0,35,Collectible,1,1,1,5,5,LLLDL,letters_digits_letters
+B278,1838,UMR 4H,20160.0,35,Collectible,1,1,1,5,4,LLLDL,letters_digits_letters
+B276,11,AAR 11A,16010.0,35,Collectible,1,1,1,6,11,LLLDDL,letters_digits_letters
+B273,178,BAS 5H,15010.0,35,Collectible,1,1,1,5,5,LLLDL,letters_digits_letters
+B278,58,AHM 3T,14890.0,35,Collectible,1,1,1,5,3,LLLDL,letters_digits_letters
+B273,1700,18 SSS,14590.0,35,Collectible,1,1,1,5,18,DDLLL,digits_then_letters
+B273,7,AAF 11A,14330.0,35,Collectible,1,1,1,6,11,LLLDDL,letters_digits_letters
+B275,161,AYM 2N,14180.0,35,Collectible,1,1,1,5,2,LLLDL,letters_digits_letters
+B272,1708,10 SUM,14020.0,35,Collectible,1,1,1,5,10,DDLLL,digits_then_letters
+B278,1673,111 SO,30010.0,33,Collectible,1,1,1,5,111,DDDLL,digits_then_letters
+B276,1379,321 OO,26010.0,33,Collectible,1,1,1,5,321,DDDLL,digits_then_letters
+B272,1244,40 NAN,24040.0,32,Collectible,1,1,1,5,40,DDLLL,digits_then_letters
+B277,206,520 BB,20010.0,30,Collectible,1,1,1,5,520,DDDLL,digits_then_letters
+B278,1361,80 OTY,17560.0,30,Collectible,1,1,1,5,80,DDLLL,digits_then_letters
+B275,617,100 FU,19510.0,28,Distinctive,1,1,1,5,100,DDDLL,digits_then_letters
+B276,541,ELL 10T,80810.0,27,Distinctive,1,1,1,6,10,LLLDDL,letters_digits_letters
+B278,1251,MSS 26,18510.0,27,Distinctive,1,1,1,5,26,LLLDD,letters_then_digits
+B278,1190,25 MJM,14530.0,27,Distinctive,1,1,1,5,25,DDLLL,digits_then_letters
+B278,1447,23 RAD,23010.0,25,Distinctive,1,1,1,5,23,DDLLL,digits_then_letters
+B274,983,81 KES,15480.0,25,Distinctive,1,1,1,5,81,DDLLL,digits_then_letters
+B270,1521,81 RKS,15110.0,25,Distinctive,1,1,1,5,81,DDLLL,digits_then_letters
+B277,439,26 DJM,15060.0,25,Distinctive,1,1,1,5,26,DDLLL,digits_then_letters
+B278,1349,247 OO,14550.0,25,Distinctive,1,1,1,5,247,DDDLL,digits_then_letters
+B271,1357,200 OOO,29600.0,23,Distinctive,1,1,1,6,200,DDDLLL,digits_then_letters
+B273,155,AVI 111,17010.0,23,Distinctive,1,1,1,6,111,LLLDDD,letters_then_digits
+B275,1358,123 OOO,16010.0,23,Distinctive,1,1,1,6,123,DDDLLL,digits_then_letters
+B277,1509,111 RJS,15020.0,23,Distinctive,1,1,1,6,111,DDDLLL,digits_then_letters
+B274,93,450 AM,14970.0,20,Distinctive,1,1,1,5,450,DDDLL,digits_then_letters
+B272,1097,250 MB,14960.0,20,Distinctive,1,1,1,5,250,DDDLL,digits_then_letters
+B278,1321,3000 O,28510.0,18,Distinctive,1,1,1,5,3000,DDDDL,digits_then_letters
+B270,1341,8000 O,25060.0,18,Distinctive,1,1,1,5,8000,DDDDL,digits_then_letters
+B276,165,AUC 210N,20000.0,18,Distinctive,1,1,1,7,210,LLLDDDL,letters_digits_letters
+B271,137,AR56 NAL,18030.0,17,Distinctive,1,1,1,7,56,LLDDLLL,letters_digits_letters
+B276,1733,TA21 SHA,17510.0,17,Distinctive,1,1,1,7,21,LLDDLLL,letters_digits_letters
+B272,146,ASH 12H,15010.0,17,Distinctive,1,1,1,6,12,LLLDDL,letters_digits_letters
+B274,739,HAM 34H,15010.0,17,Distinctive,1,1,1,6,34,LLLDDL,letters_digits_letters
+B275,578,FER 12C,35000.0,15,Distinctive,1,1,1,6,12,LLLDDL,letters_digits_letters
+B273,1390,PO25 CHE,31010.0,15,Distinctive,1,1,1,7,25,LLDDLLL,letters_digits_letters
+B277,170,AUT 15M,30010.0,15,Distinctive,1,1,1,6,15,LLLDDL,letters_digits_letters
+B275,1880,296 VS,25010.0,15,Distinctive,1,1,1,5,296,DDDLL,digits_then_letters
+B277,748,HO75 PUR,20020.0,15,Distinctive,1,1,1,7,75,LLDDLLL,letters_digits_letters
+B277,988,KR75 HNA,16970.0,15,Distinctive,1,1,1,7,75,LLDDLLL,letters_digits_letters
+B270,1982,786 YH,15460.0,15,Distinctive,1,1,1,5,786,DDDLL,digits_then_letters
+B272,87,451 AM,15000.0,15,Distinctive,1,1,1,5,451,DDDLL,digits_then_letters
+B270,1882,V81 UKE,14020.0,15,Distinctive,1,1,1,6,81,LDDLLL,letters_digits_letters
+B270,299,1544 C,33670.0,13,Standard,1,1,1,5,1544,DDDDL,digits_then_letters
+B272,1556,8008 S,27410.0,13,Standard,1,1,1,5,8008,DDDDL,digits_then_letters
+B277,1329,9115 O,16260.0,13,Standard,1,1,1,5,9115,DDDDL,digits_then_letters
+B276,1393,411 OYS,22770.0,8,Standard,1,1,1,6,411,DDDLLL,digits_then_letters
+B271,716,992 GTS,16010.0,8,Standard,1,1,1,6,992,DDDLLL,digits_then_letters
+B275,33,154 ACS,19540.0,5,Standard,1,1,1,6,154,DDDLLL,digits_then_letters
+B272,806,7007 JB,28010.0,3,Standard,1,1,1,6,7007,DDDDLL,digits_then_letters
+B275,1553,9 RST,8510.0,70,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B270,316,9 CBA,5010.0,70,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,1836,7 UTS,4510.0,70,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B276,1849,3 UUU,10010.0,67,Trophy Candidate,1,1,0,4,3,DLLL,digits_then_letters
+B271,1872,VVV 6,9150.0,67,Trophy Candidate,1,1,0,4,6,LLLD,letters_then_digits
+B275,1057,6 LLL,8610.0,67,Trophy Candidate,1,1,0,4,6,DLLL,digits_then_letters
+B275,1097,22 LX,14010.0,65,Trophy Candidate,1,1,0,4,22,DDLL,digits_then_letters
+B278,223,99 BF,12030.0,65,Trophy Candidate,1,1,0,4,99,DDLL,digits_then_letters
+B278,1847,55 UV,11660.0,65,Trophy Candidate,1,1,0,4,55,DDLL,digits_then_letters
+B274,1124,55 LV,11100.0,65,Trophy Candidate,1,1,0,4,55,DDLL,digits_then_letters
+B273,1832,22 UR,10650.0,65,Trophy Candidate,1,1,0,4,22,DDLL,digits_then_letters
+B271,1964,88 XV,10130.0,65,Trophy Candidate,1,1,0,4,88,DDLL,digits_then_letters
+B274,1854,99 VA,10110.0,65,Trophy Candidate,1,1,0,4,99,DDLL,digits_then_letters
+B272,1311,99 OF,10020.0,65,Trophy Candidate,1,1,0,4,99,DDLL,digits_then_letters
+B277,185,88 AX,10010.0,65,Trophy Candidate,1,1,0,4,88,DDLL,digits_then_letters
+B277,1987,99 YP,10010.0,65,Trophy Candidate,1,1,0,4,99,DDLL,digits_then_letters
+B274,1830,66 TV,9910.0,65,Trophy Candidate,1,1,0,4,66,DDLL,digits_then_letters
+B275,1342,77 OH,9290.0,65,Trophy Candidate,1,1,0,4,77,DDLL,digits_then_letters
+B273,912,77 JV,9210.0,65,Trophy Candidate,1,1,0,4,77,DDLL,digits_then_letters
+B270,1723,77 SY,9010.0,65,Trophy Candidate,1,1,0,4,77,DDLL,digits_then_letters
+B271,1842,99 UR,9000.0,65,Trophy Candidate,1,1,0,4,99,DDLL,digits_then_letters
+B272,594,66 FU,8910.0,65,Trophy Candidate,1,1,0,4,66,DDLL,digits_then_letters
+B277,598,99 FO,8910.0,65,Trophy Candidate,1,1,0,4,99,DDLL,digits_then_letters
+B272,1817,22 UC,8520.0,65,Trophy Candidate,1,1,0,4,22,DDLL,digits_then_letters
+B275,1957,77 XR,8510.0,65,Trophy Candidate,1,1,0,4,77,DDLL,digits_then_letters
+B277,1939,77 XM,8210.0,65,Trophy Candidate,1,1,0,4,77,DDLL,digits_then_letters
+B275,540,44 EO,8110.0,65,Trophy Candidate,1,1,0,4,44,DDLL,digits_then_letters
+B272,782,IG 88,8010.0,65,Trophy Candidate,1,1,0,4,88,LLDD,letters_then_digits
+B276,1311,77 NF,8000.0,65,Trophy Candidate,1,1,0,4,77,DDLL,digits_then_letters
+B276,1390,33 OV,8000.0,65,Trophy Candidate,1,1,0,4,33,DDLL,digits_then_letters
+B270,1868,99 VK,7910.0,65,Trophy Candidate,1,1,0,4,99,DDLL,digits_then_letters
+B278,174,33 AX,7910.0,65,Trophy Candidate,1,1,0,4,33,DDLL,digits_then_letters
+B270,1990,77 YO,7260.0,65,Trophy Candidate,1,0,0,4,77,DDLL,digits_then_letters
+B273,1412,33 PU,6960.0,65,Trophy Candidate,1,0,0,4,33,DDLL,digits_then_letters
+B271,1977,22 YB,6920.0,65,Trophy Candidate,1,0,0,4,22,DDLL,digits_then_letters
+B274,629,88 FO,6910.0,65,Trophy Candidate,1,0,0,4,88,DDLL,digits_then_letters
+B277,1839,99 UX,6700.0,65,Trophy Candidate,1,0,0,4,99,DDLL,digits_then_letters
+B276,1816,88 UC,6630.0,65,Trophy Candidate,1,0,0,4,88,DDLL,digits_then_letters
+B275,1326,77 NX,6560.0,65,Trophy Candidate,1,0,0,4,77,DDLL,digits_then_letters
+B276,638,77 FY,6510.0,65,Trophy Candidate,1,0,0,4,77,DDLL,digits_then_letters
+B273,1958,77 XP,6500.0,65,Trophy Candidate,1,0,0,4,77,DDLL,digits_then_letters
+B275,1937,66 XE,6500.0,65,Trophy Candidate,1,0,0,4,66,DDLL,digits_then_letters
+B276,1955,44 XT,6460.0,65,Trophy Candidate,1,0,0,4,44,DDLL,digits_then_letters
+B274,1860,88 VD,6170.0,65,Trophy Candidate,1,0,0,4,88,DDLL,digits_then_letters
+B275,2000,33 YX,6170.0,65,Trophy Candidate,1,0,0,4,33,DDLL,digits_then_letters
+B275,1841,66 UL,6100.0,65,Trophy Candidate,1,0,0,4,66,DDLL,digits_then_letters
+B277,774,99 HV,6010.0,65,Trophy Candidate,1,0,0,4,99,DDLL,digits_then_letters
+B275,477,99 DX,5710.0,65,Trophy Candidate,1,0,0,4,99,DDLL,digits_then_letters
+B272,1349,55 OV,5460.0,65,Trophy Candidate,0,0,0,4,55,DDLL,digits_then_letters
+B274,503,33 DU,5310.0,65,Trophy Candidate,0,0,0,4,33,DDLL,digits_then_letters
+B272,700,44 GY,5260.0,65,Trophy Candidate,0,0,0,4,44,DDLL,digits_then_letters
+B273,1938,1 XDX,13970.0,64,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B274,1581,1 RYY,13310.0,64,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B277,1093,1 LVV,13270.0,64,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,776,9 HSS,13030.0,64,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B278,1956,1 XSX,12610.0,64,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B270,1936,1 XAA,12030.0,64,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B278,683,8 GGM,10110.0,64,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B276,1922,1 WTT,10010.0,64,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B278,1353,9 OOX,9910.0,64,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B276,1952,7 XOX,9890.0,64,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B270,1846,1 UUO,9180.0,64,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B274,1954,1 XTT,8640.0,64,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B276,411,7 DDY,8410.0,64,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B273,854,7 JHJ,8200.0,64,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B275,1333,7 OCC,8030.0,64,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B272,1166,7 MMR,8010.0,64,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B275,1820,7 TSS,8000.0,64,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B272,1691,SSO 8,7510.0,64,Trophy Candidate,1,0,0,4,8,LLLD,letters_then_digits
+B276,1984,1 YLY,7300.0,64,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B276,1279,8 MWM,7260.0,64,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B278,1851,1 UYU,7210.0,64,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B271,1846,1 UWU,7090.0,64,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B273,189,8 BEB,7060.0,64,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B275,1622,7 SGG,6950.0,64,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B278,1522,9 ROR,6610.0,64,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B277,1481,7 RDD,6540.0,64,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B271,1672,8 SNS,6170.0,64,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B272,1555,7 RYY,6110.0,64,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B272,1962,9 XXL,6060.0,64,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B274,1734,7 SWS,5910.0,64,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B271,1912,9 WRW,5260.0,64,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B270,1560,9 RRY,5130.0,64,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,318,9 CHH,5120.0,64,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B278,1873,7 VOV,5080.0,64,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B272,635,7 GGM,5050.0,64,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B274,1829,7 TUT,5010.0,64,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B276,1272,8 MUM,5010.0,64,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B274,1883,9 VXV,4510.0,64,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B275,1809,7 TPT,4310.0,64,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B273,1285,7 NNL,3600.0,64,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B278,1561,9 RYR,3410.0,64,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,963,9 KKU,3360.0,64,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B271,1258,1 MXS,14010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B270,1891,1 WCK,13860.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B270,1577,RXS 1,13680.0,62,Trophy Candidate,1,1,0,4,1,LLLD,letters_then_digits
+B278,1320,1 NYX,13280.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B276,1019,1 KYO,13060.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B271,1253,8 MUS,13010.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B272,1538,1 RUK,13010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,1348,1 OLH,13010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B276,1367,1 OHJ,13010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,1848,1 USE,12880.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B270,1721,1 SXL,12810.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,971,1 KLX,12660.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B271,1999,YUI 1,12570.0,62,Trophy Candidate,1,1,0,4,1,LLLD,letters_then_digits
+B270,1879,1 VSN,12460.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B271,1564,8 RUH,12310.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B272,1867,1 VRC,12110.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B273,1618,8 SGL,12110.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B271,1955,1 XSA,11630.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,1943,1 XHR,11510.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B277,1365,1 OWD,11110.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B278,1969,7 YAN,11110.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B277,48,8 ADX,11090.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B273,1995,9 YSN,11060.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B271,1864,1 VLJ,11010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B273,1814,1 TXY,11010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B273,1925,1 WYT,11010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B274,1450,1 PVL,11010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B274,1861,VEK 1,11010.0,62,Trophy Candidate,1,1,0,4,1,LLLD,letters_then_digits
+B276,1581,1 RXA,11010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B270,1363,9 OJB,10730.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B275,1649,9 SJN,10710.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B270,1636,9 SHD,10510.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B274,1871,1 VJG,10510.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B278,1970,9 YAS,10390.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B274,1261,1 MWU,10210.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B278,1297,NLS 8,10120.0,62,Trophy Candidate,1,1,0,4,8,LLLD,letters_then_digits
+B277,906,8 JSN,10110.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B271,1992,1 YNK,10020.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B270,1066,8 LDN,10010.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B277,1909,1 WVH,10010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,1860,1 VBN,9860.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,1561,1 RXS,9810.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B270,1811,1 TUX,9560.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,1496,8 RGW,9550.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B276,792,HVS 1,9510.0,62,Trophy Candidate,1,1,0,4,1,LLLD,letters_then_digits
+B272,1835,1 UPT,9410.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B271,1887,1 WFG,9370.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B274,1343,9 OJT,9210.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B277,1858,1 VKC,9210.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B270,1986,1 YLS,9160.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B274,1833,1 TYK,9080.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B274,1981,9 YLA,9080.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B275,1805,8 TOB,9020.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B271,1335,8 OBJ,9010.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B272,1928,1 XEL,9010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,1083,7 LSK,9010.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B277,1740,1 SXR,9010.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B276,1457,1 PVE,8910.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B278,822,8 HUX,8680.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B273,1305,1 NXU,8610.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B275,225,BMZ 1,8520.0,62,Trophy Candidate,1,1,0,4,1,LLLD,letters_then_digits
+B278,1326,7 OAS,8520.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B270,828,1 HXC,8510.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B278,401,8 CSW,8510.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B272,1537,8 RUF,8470.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B278,1799,7 TNR,8460.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B276,1866,1 VEF,8410.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B276,1895,8 WDM,8380.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B273,981,9 KRD,8260.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B277,1868,1 VYL,8260.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B276,1954,1 XSJ,8220.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B273,1301,1 NUF,8120.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B273,1863,1 VLO,8120.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B271,1944,1 XKB,8090.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B273,873,9 JMO,8090.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B272,1933,1 XHB,8070.0,62,Trophy Candidate,1,1,0,4,1,DLLL,digits_then_letters
+B278,105,AMZ 8,8060.0,62,Trophy Candidate,1,1,0,4,8,LLLD,letters_then_digits
+B274,1324,7 NUH,8050.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B277,1336,7 OCW,8050.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B271,1280,9 NET,8040.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B278,1490,9 RJN,8040.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B270,784,8 HJW,8010.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B270,1168,7 MCY,8010.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B270,1241,7 MRX,8010.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B270,1765,8 TJS,8010.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B275,1727,9 STK,8010.0,62,Trophy Candidate,1,1,0,4,9,DLLL,digits_then_letters
+B276,604,FMZ 1,8010.0,62,Trophy Candidate,1,1,0,4,1,LLLD,letters_then_digits
+B277,1078,8 LSK,8010.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B277,1902,7 WRC,8010.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B278,968,7 KAW,8000.0,62,Trophy Candidate,1,1,0,4,7,DLLL,digits_then_letters
+B272,1633,8 SJN,7860.0,62,Trophy Candidate,1,1,0,4,8,DLLL,digits_then_letters
+B275,1291,9 NCA,7730.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B275,1986,YHC 1,7620.0,62,Trophy Candidate,1,0,0,4,1,LLLD,letters_then_digits
+B275,1748,8 SWA,7560.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B277,1058,7 LNS,7520.0,62,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B275,1945,XIG 9,7370.0,62,Trophy Candidate,1,0,0,4,9,LLLD,letters_then_digits
+B273,1869,VSB 8,7230.0,62,Trophy Candidate,1,0,0,4,8,LLLD,letters_then_digits
+B277,926,1 JXF,7210.0,62,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B277,1005,1 KWN,7210.0,62,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B270,1038,1 KUC,7110.0,62,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B275,1758,1 SYJ,7040.0,62,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B272,938,7 KDS,7000.0,62,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B274,1578,9 RYG,7000.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B276,1387,7 OSF,7000.0,62,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B274,823,1 HVF,6980.0,62,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B274,1126,1 LXA,6940.0,62,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B274,781,9 HJW,6910.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B274,878,9 JEP,6910.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B274,1188,9 MFS,6910.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B271,1166,8 MET,6810.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B276,796,1 HXG,6810.0,62,Trophy Candidate,1,0,0,4,1,DLLL,digits_then_letters
+B277,1086,8 LUK,6710.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B273,993,8 KSP,6510.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B275,1890,9 WAS,6510.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B278,328,9 CDF,6410.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B273,1018,8 LAV,6380.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B270,1489,9 RCJ,6310.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B275,107,9 ANH,6240.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B273,1344,7 OUA,6230.0,62,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B271,1680,9 SON,6180.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B277,1330,8 OAD,6120.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B272,449,9 DNS,6110.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B273,732,8 HGT,6010.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B276,1892,9 WAT,6010.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B277,1344,8 OJL,6010.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B278,973,7 KDA,6010.0,62,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B276,123,8 ANH,5980.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B273,1407,9 PSW,5910.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B277,1616,SEC 9,5910.0,62,Trophy Candidate,1,0,0,4,9,LLLD,letters_then_digits
+B277,1629,8 SGH,5910.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B277,1641,8 SHF,5910.0,62,Trophy Candidate,1,0,0,4,8,DLLL,digits_then_letters
+B278,1184,9 MHR,5910.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B278,1762,7 TCH,5830.0,62,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B271,1291,7 NJL,5820.0,62,Trophy Candidate,1,0,0,4,7,DLLL,digits_then_letters
+B272,1711,9 SUP,5760.0,62,Trophy Candidate,1,0,0,4,9,DLLL,digits_then_letters
+B272,164,AVI 7,5730.0,62,Trophy Candidate,1,0,0,4,7,LLLD,letters_then_digits
+B277,1151,8 MEN,5630.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B272,986,8 KTY,5570.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B278,1339,9 OJL,5520.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B271,454,9 DHP,5510.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,230,9 BNA,5510.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B275,55,8 AHM,5510.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B278,1316,7 NUG,5510.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B276,737,7 HBS,5450.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B271,1234,9 MRY,5400.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B272,1546,8 RWA,5320.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B273,1259,9 NAY,5260.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B278,639,7 FRC,5260.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B271,1875,8 VXR,5170.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B274,463,DMZ 9,5030.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B276,1643,SHF 8,5030.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B278,1443,9 PVD,5030.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B270,1332,8 NTH,5020.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B273,1629,8 SHJ,5020.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B274,1065,9 LDR,5020.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B271,1941,XIG 8,5010.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B273,649,9 GBT,5010.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B274,584,9 ESY,5010.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B275,1435,8 PRK,5010.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B277,995,7 KTY,5010.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B278,1840,9 UPY,5010.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B270,172,AVZ 7,5000.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B270,883,8 JDY,5000.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B271,853,8 JBK,4910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B271,1172,8 MFW,4910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B272,990,9 KWS,4910.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,1274,8 NJL,4910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B274,1114,9 LSK,4910.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B275,1635,7 SHF,4910.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B276,1167,8 MEK,4910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B277,714,8 HEM,4910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B277,864,8 JLO,4910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B278,721,7 GSF,4910.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B278,1283,7 NCW,4910.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B278,1378,8 PDF,4910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B277,1471,8 RAX,4880.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B270,1506,8 RHS,4820.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B271,553,8 EJG,4810.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B278,1681,9 SOV,4810.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B270,170,9 AVR,4720.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,783,HSZ 7,4720.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B273,1800,7 TSF,4710.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B275,1563,8 RYG,4710.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B276,1015,9 KXB,4710.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B270,1008,8 KLT,4630.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B278,1934,9 XFO,4590.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B275,1206,7 MLX,4520.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B272,1351,7 OXF,4500.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B271,287,7 BUN,4450.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B277,1071,9 LPW,4230.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B272,264,9 BSF,4210.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B276,1968,9 YBL,4210.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B274,1845,7 ULF,4130.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B275,1445,7 PUM,4130.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B271,272,8 BSF,4120.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B271,1502,9 RGE,4110.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B271,1505,7 RHE,4110.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B272,581,FMZ 7,4090.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B277,577,7 FCT,4070.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B278,552,8 EJY,4070.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B271,1503,RGZ 7,4060.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B273,1839,UXZ 7,4010.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B274,1783,8 TLK,4010.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B277,1929,XGZ 8,4010.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B274,1370,9 OYD,4000.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B277,1268,7 NCH,4000.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B277,1568,8 RUK,4000.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B270,1419,PHD 8,3960.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B276,438,7 DJY,3960.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B278,605,8 FCT,3930.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B270,1062,8 LBC,3910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B271,1003,7 KRG,3910.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B274,1316,9 NRM,3910.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B274,1451,9 PWE,3910.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B275,1778,8 TGD,3910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B278,971,8 KBR,3910.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B275,180,8 BDY,3900.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B270,1758,9 THM,3890.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B275,1050,8 LJE,3880.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B275,1831,TXZ 7,3860.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B272,1293,8 NRM,3840.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B275,1904,9 WLD,3800.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B276,1405,9 PAX,3770.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,853,7 JHF,3760.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B272,646,9 GKW,3660.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B277,765,7 HSY,3660.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B277,666,7 GRU,3620.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B272,1510,9 ROM,3610.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B274,1302,8 NHG,3610.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B277,385,7 CVR,3610.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B277,1280,7 NFP,3610.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B277,1735,8 SVM,3610.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B278,1741,7 SYL,3540.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B272,242,7 BNH,3530.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B272,1663,9 SOC,3520.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,989,8 KSE,3520.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B274,1869,VIG 7,3520.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B277,652,GMZ 8,3520.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B270,679,7 GEB,3510.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B270,1680,8 SOC,3510.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B272,1772,7 TLK,3510.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B276,347,CMZ 8,3510.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B270,1830,UGZ 8,3500.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B273,1840,8 UYP,3500.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B270,1213,9 MNC,3420.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B271,1840,8 UNX,3400.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B271,1257,8 MXK,3360.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B272,1752,8 TER,3320.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B270,366,CMZ 7,3310.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B270,1994,7 YTM,3260.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B274,1795,7 TND,3260.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B274,1874,9 VLY,3210.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B277,1825,UKZ 9,3210.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B273,1981,YGZ 8,3200.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B278,1917,WRZ 7,3130.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B276,1812,TXZ 9,3120.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B270,1819,7 TYP,3110.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B270,1983,YHZ 9,3110.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B273,1089,7 LXE,3110.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B274,1952,8 XNM,3110.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B277,766,HSZ 9,3090.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B274,352,CMZ 9,3070.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B275,1024,9 LCX,3060.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B276,1839,UNZ 7,3060.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B278,1875,VRZ 9,3050.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B270,1730,8 TAO,3030.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B276,673,GMZ 9,3030.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B277,1975,YGZ 7,3030.0,62,Trophy Candidate,0,0,0,4,7,LLLD,letters_then_digits
+B271,289,BVZ 9,3020.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B272,1843,UWC 8,3020.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B272,1810,TXZ 8,3010.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B273,660,8 GEX,3010.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B273,1817,9 TYL,3010.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B273,1858,VFZ 9,3010.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B273,1924,9 WYR,3010.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B276,713,9 GYJ,3010.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B270,662,9 FVY,3000.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B274,275,BVZ 8,2980.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
+B271,651,7 FYJ,2970.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B270,1289,7 NBW,2960.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B272,688,9 GSX,2930.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B271,1762,7 TFP,2920.0,62,Trophy Candidate,0,0,0,4,7,DLLL,digits_then_letters
+B271,1845,8 UWH,2920.0,62,Trophy Candidate,0,0,0,4,8,DLLL,digits_then_letters
+B271,1905,9 WOB,2910.0,62,Trophy Candidate,0,0,0,4,9,DLLL,digits_then_letters
+B272,1475,RGZ 9,2880.0,62,Trophy Candidate,0,0,0,4,9,LLLD,letters_then_digits
+B275,1852,UXZ 8,2850.0,62,Trophy Candidate,0,0,0,4,8,LLLD,letters_then_digits
