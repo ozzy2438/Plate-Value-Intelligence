@@ -1,0 +1,5 @@
+short_low_number_group,plate_count,median_price,mean_price,percentile_90_price,maximum_price,median_lift_vs_overall,sample_size_flag
+Short + number 100 or above,123,10620.0,12559.59349593496,18329.999999999996,91020.0,7.033112582781457,sufficient_sample
+Short + number below 100,1143,6130.0,7512.537182852144,12010.0,102010.0,4.059602649006623,sufficient_sample
+Long + number below 100,9683,1410.0,2110.1342559124237,4520.0,80810.0,0.9337748344370861,sufficient_sample
+Long + number 100 or above,6833,1200.0,2021.741548368213,4708.000000000002,33670.0,0.7947019867549668,sufficient_sample

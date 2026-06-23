@@ -1,0 +1,6 @@
+feature,plate_count,premium_top_10_rate_pct,premium_top_10_lift_vs_baseline,sample_size_flag
+"Short plate, length <= 4",1266,62.55924170616114,6.249597955162681,sufficient_sample
+Number below 100,10826,11.472381304267504,1.1460780019802514,sufficient_sample
+Repeated digit,5703,7.7678414869367,0.7759986366331931,sufficient_sample
+Repeated letter,3795,7.140974967061924,0.7133753756421074,sufficient_sample
+All digits identical,2406,8.935993349958437,0.8926956952188816,sufficient_sample

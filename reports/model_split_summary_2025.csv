@@ -1,0 +1,10 @@
+model_split,event_code,plate_count,median_price,median_lift_vs_overall,sample_size_flag
+test,B278,1981,1500.0,0.9933774834437086,sufficient_sample
+train,B270,1966,1485.0,0.9834437086092715,sufficient_sample
+train,B271,1969,1510.0,1.0,sufficient_sample
+train,B272,1983,1510.0,1.0,sufficient_sample
+train,B273,1983,1510.0,1.0,sufficient_sample
+train,B274,1981,1440.0,0.9536423841059603,sufficient_sample
+train,B275,1970,1510.0,1.0,sufficient_sample
+train,B276,1972,1370.0,0.9072847682119205,sufficient_sample
+validation,B277,1977,1520.0,1.0066225165562914,sufficient_sample

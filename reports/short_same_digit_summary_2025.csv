@@ -1,0 +1,5 @@
+short_same_digit_group,plate_count,median_price,mean_price,percentile_90_price,median_lift_vs_overall,sample_size_flag
+Short + identical digits,45,8000.0,8161.111111111111,10442.0,5.298013245033113,sufficient_sample
+Short + non-identical digits,1221,6510.0,7997.059787059787,13110.0,4.311258278145695,sufficient_sample
+Long + identical digits,2361,1430.0,2263.193562049979,5010.0,0.9470198675496688,sufficient_sample
+Long + non-identical digits,14155,1260.0,2041.9350052984812,4510.0,0.8344370860927153,sufficient_sample

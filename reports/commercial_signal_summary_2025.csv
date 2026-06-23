@@ -1,0 +1,6 @@
+signal,plate_count,median_price_gbp,premium_top_10_rate_pct,median_lift_vs_overall,premium_top_10_lift_vs_baseline,sample_size_flag
+Short plate (length <= 4),1266,6515.0,62.55924170616114,4.314569536423841,6.249597955162681,sufficient_sample
+Number below 100,10826,1610.0,11.472381304267504,1.0662251655629138,1.1460780019802514,sufficient_sample
+Repeated digit,5703,1390.0,7.7678414869367,0.9205298013245033,0.7759986366331931,sufficient_sample
+Repeated letter,3795,1260.0,7.140974967061924,0.8344370860927153,0.7133753756421074,sufficient_sample
+All digits identical,2406,1500.0,8.935993349958437,0.9933774834437086,0.8926956952188816,sufficient_sample

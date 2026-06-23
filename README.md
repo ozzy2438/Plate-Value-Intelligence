@@ -18,6 +18,9 @@ The current repo focus is not data collection. It is structured around:
 - [02_plate_feature_engineering.ipynb](02_plate_feature_engineering.ipynb)
   - derives interpretable plate-level features
   - prepares valuation-oriented feature tables
+- [03_exploratory_pricing_analysis.ipynb](03_exploratory_pricing_analysis.ipynb)
+  - explores observed pricing patterns across events, formats, numeric bands, and scarcity signals
+  - produces stakeholder-friendly pricing summary reports
 - [data/processed/all_sources_governed_2025.csv](data/processed/all_sources_governed_2025.csv)
   - governed dataset with quality and governance fields
 - [data/processed/valuation_core_2025.csv](data/processed/valuation_core_2025.csv)
@@ -25,7 +28,7 @@ The current repo focus is not data collection. It is structured around:
 - [data/processed/plate_features_2025.csv](data/processed/plate_features_2025.csv)
   - valuation-ready feature table derived from the core 2025 dataset
 - [reports/](reports)
-  - summary outputs for coverage, data quality, and price quantiles
+  - summary outputs for coverage, data quality, price quantiles, and exploratory pricing signals
 - [sources/](sources)
   - supporting source indexes and historical reference files
 

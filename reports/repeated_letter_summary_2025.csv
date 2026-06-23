@@ -1,0 +1,3 @@
+has_repeated_letter,plate_count,median_price,mean_price,percentile_90_price,letter_repetition_group,median_lift_vs_overall,sample_size_flag
+0,13987,1510.0,2575.1948237649244,5940.0,No repeated letter,1.0,sufficient_sample
+1,3795,1260.0,2202.7404479578395,4910.0,Repeated letter,0.8344370860927153,sufficient_sample

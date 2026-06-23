@@ -1,0 +1,26 @@
+event_code,lot_number,plate_raw,hammer_price_gbp,plate_length,numeric_value,plate_pattern,plate_format_group,is_number_below_100,all_digits_same,is_premium_top_1pct
+B276,1348,52 O,102010.0,3,52,DDL,digits_then_letters,1,0,1
+B272,1308,101 O,91020.0,4,101,DDDL,digits_then_letters,0,0,1
+B274,646,8 FU,90000.0,3,8,DLL,digits_then_letters,1,0,1
+B276,541,ELL 10T,80810.0,6,10,LLLDDL,letters_digits_letters,1,0,1
+B274,1,95 A,71010.0,3,95,DDL,digits_then_letters,1,0,1
+B271,643,3 FU,70000.0,3,3,DLL,digits_then_letters,1,0,1
+B274,1332,98 O,63100.0,3,98,DDL,digits_then_letters,1,0,1
+B276,1353,9 OAT,62030.0,4,9,DLLL,digits_then_letters,1,0,1
+B273,1309,54 O,56510.0,3,54,DDL,digits_then_letters,1,0,1
+B274,1334,OAS 1S,56040.0,5,1,LLLDL,letters_digits_letters,1,0,1
+B278,1805,TON 1S,51020.0,5,1,LLLDL,letters_digits_letters,1,0,1
+B274,1951,9 XN,45010.0,3,9,DLL,digits_then_letters,1,0,1
+B273,635,7 FU,42510.0,3,7,DLL,digits_then_letters,1,0,1
+B275,578,FER 12C,35000.0,6,12,LLLDDL,letters_digits_letters,1,0,1
+B270,299,1544 C,33670.0,5,1544,DDDDL,digits_then_letters,0,0,1
+B273,1390,PO25 CHE,31010.0,7,25,LLDDLLL,letters_digits_letters,1,0,1
+B271,1334,66 OAT,31010.0,5,66,DDLLL,digits_then_letters,1,1,1
+B278,1673,111 SO,30010.0,5,111,DDDLL,digits_then_letters,0,1,1
+B277,1328,303 O,30010.0,4,303,DDDL,digits_then_letters,0,0,1
+B277,170,AUT 15M,30010.0,6,15,LLLDDL,letters_digits_letters,1,0,1
+B271,1357,200 OOO,29600.0,6,200,DDDLLL,digits_then_letters,0,0,1
+B278,1321,3000 O,28510.0,5,3000,DDDDL,digits_then_letters,0,0,1
+B272,806,7007 JB,28010.0,6,7007,DDDDLL,digits_then_letters,0,0,1
+B272,1556,8008 S,27410.0,5,8008,DDDDL,digits_then_letters,0,0,1
+B272,1342,1 ORO,26260.0,4,1,DLLL,digits_then_letters,1,0,1
