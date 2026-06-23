@@ -1,0 +1,2 @@
+selected_model,challenger_model,selection_basis,validation_event,final_test_event
+random_forest,hist_gradient_boosting,"Comparable validation MAE with stronger premium capture, lower RMSE, lower median absolute error, and clearer feature-level explainability.",B277,B278

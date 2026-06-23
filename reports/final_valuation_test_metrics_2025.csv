@@ -1,0 +1,2 @@
+model,dataset,mae_gbp,median_absolute_error_gbp,rmse_gbp,log_rmse
+final_random_forest,B278_final_test,1247.873532951578,621.2941436718735,2551.251329945313,0.7552332699193011
