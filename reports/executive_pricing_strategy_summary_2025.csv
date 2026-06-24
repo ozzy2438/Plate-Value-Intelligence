@@ -1,11 +1,11 @@
-metric,value
-B278 portfolio rows,1981.0
-Fixed-price recommendations,1482.0
-Standard-auction recommendations,235.0
-Premium-showcase recommendations,54.0
-Specialist-review recommendations,210.0
-Specialist-review share,10.60070671378092
-Collectible-value review flags,46.0
-Material valuation-gap review flags,562.0
-Premium-auction reserve coverage,100.0
-Standard-auction reserve coverage,75.74468085106383
+metric,value,value_type,display_value
+B278 portfolio rows,1981.0,count,"1,981"
+Fixed-price recommendations,1482.0,count,"1,482"
+Standard-auction recommendations,235.0,count,235
+Premium-showcase recommendations,54.0,count,54
+Specialist-review recommendations,210.0,count,210
+Specialist-review share,10.60070671378092,percent,10.60%
+Collectible-value review flags,46.0,count,46
+Material valuation-gap review flags,562.0,count,562
+Premium-auction reserve coverage,100.0,percent,100.00%
+Standard-auction reserve coverage,75.74468085106383,percent,75.74%

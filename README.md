@@ -7,7 +7,8 @@ The current repo focus is not data collection. It is structured around:
 - auditing auction data quality
 - building a governed modelling dataset
 - engineering explainable plate features
-- preparing valuation-ready tables for downstream modelling
+- building valuation models
+- converting model outputs into premium-asset, pricing, and auction-strategy decision support
 
 ## Repository Contents
 
@@ -21,6 +22,19 @@ The current repo focus is not data collection. It is structured around:
 - [03_exploratory_pricing_analysis.ipynb](03_exploratory_pricing_analysis.ipynb)
   - explores observed pricing patterns across events, formats, numeric bands, and scarcity signals
   - produces stakeholder-friendly pricing summary reports
+- [04_valuation_baseline_models.ipynb](04_valuation_baseline_models.ipynb)
+  - establishes median, plate-length, and Ridge regression valuation baselines
+  - validates the event-based train / validation / test design
+- [05_valuation_tree_models.ipynb](05_valuation_tree_models.ipynb)
+  - evaluates tree-based valuation models against baseline performance
+  - produces final holdout test metrics, feature importance, and model artifacts
+- [06_premium_collectible_asset_detection.ipynb](06_premium_collectible_asset_detection.ipynb)
+  - turns valuation and structural rarity signals into premium, collectible, and specialist-review decisions
+  - produces portfolio-level asset-decision reports
+- [07_pricing_and_auction_strategy_simulation.ipynb](07_pricing_and_auction_strategy_simulation.ipynb)
+  - converts holdout valuation predictions and collectibility decisions into transparent fixed-price, auction, premium-showcase, and specialist-review recommendations
+  - simulates indicative pricing and reserve-policy scenarios for retrospective decision support
+  - does not claim to be a live dynamic pricing optimisation engine
 - [data/processed/all_sources_governed_2025.csv](data/processed/all_sources_governed_2025.csv)
   - governed dataset with quality and governance fields
 - [data/processed/valuation_core_2025.csv](data/processed/valuation_core_2025.csv)
@@ -41,6 +55,7 @@ The working modelling principle is:
 - treat the 2025 full-auction dataset as the core modelling base
 - treat earlier historical material as contextual or supporting evidence
 - keep feature engineering explainable and commercially meaningful
+- keep pricing and auction-strategy outputs framed as transparent simulations until internal conversion, bidder, reserve, and sales-outcome data are available
 
 ## Environment
 
