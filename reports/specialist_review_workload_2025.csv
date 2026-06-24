@@ -1,0 +1,5 @@
+specialist_review_reason,premium_collectibility_group,plate_count,median_observed_price_gbp,median_predicted_price_gbp,median_collectibility_score
+high_market_value_not_fully_explained,Premium Value Only,128,7270.0,2880.8225546185377,25.0
+structural_collectibility_above_observed_value,Collectible Potential,33,4510.0,5432.516074329996,57.0
+very_high_structural_collectibility,Premium + Collectible,31,10110.0,6249.533510883353,62.0
+very_high_structural_collectibility|structural_collectibility_above_observed_value,Collectible Potential,18,4860.0,5604.387147850363,62.0

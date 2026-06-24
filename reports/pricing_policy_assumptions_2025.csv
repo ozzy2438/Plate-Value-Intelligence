@@ -1,0 +1,5 @@
+recommended_sales_path,reserve_ratio,listing_price_ratio,policy_note
+Fixed Price,,1.1,List slightly above central valuation to allow pricing headroom.
+Standard Auction,0.7,,Use a moderate reserve to protect downside while supporting competition.
+Premium Auction / Showcase,0.65,,Use a lower relative reserve to encourage bidding depth and price discovery.
+Specialist Review,,,No automatic price recommendation before specialist review.

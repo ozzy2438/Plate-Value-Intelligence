@@ -1,0 +1,5 @@
+recommended_sales_path,plate_count,median_predicted_price_gbp,median_observed_price_gbp,median_collectibility_score,specialist_review_count,portfolio_share_pct
+Premium Auction / Showcase,54,7240.530698842826,7005.0,47.0,0,2.7258960121150935
+Specialist Review,210,4623.955686741333,6730.0,37.0,210,10.60070671378092
+Standard Auction,235,3104.7643678597283,3260.0,25.0,0,11.862695608278647
+Fixed Price,1482,1091.2145298178407,1010.0,15.0,0,74.81070166582533

@@ -1,0 +1,6 @@
+predicted_value_tier,plate_count,median_predicted_price,median_observed_price,median_collectibility_score
+Entry,662,709.7490291688149,640.0,15.0
+Core,877,1434.862707522034,1500.0,23.0
+Upper Core,281,3104.7643678597283,3520.0,25.0
+Premium,145,5604.387147850363,6300.0,57.0
+Trophy Value,16,10675.362737128607,10070.0,38.5

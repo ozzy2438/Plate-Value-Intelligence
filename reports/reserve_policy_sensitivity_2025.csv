@@ -1,0 +1,11 @@
+recommended_sales_path,reserve_ratio,plate_count,median_simulated_reserve_gbp,observed_above_reserve_count,observed_above_reserve_rate_pct
+Standard Auction,0.6,235,1860.0,197,83.82978723404256
+Standard Auction,0.65,235,2015.0,184,78.29787234042553
+Standard Auction,0.7,235,2170.0,178,75.74468085106383
+Standard Auction,0.75,235,2325.0,164,69.7872340425532
+Standard Auction,0.8,235,2480.0,155,65.95744680851064
+Premium Auction / Showcase,0.55,54,3982.0000000000005,54,100.0
+Premium Auction / Showcase,0.6,54,4344.0,54,100.0
+Premium Auction / Showcase,0.65,54,4706.0,54,100.0
+Premium Auction / Showcase,0.7,54,5068.0,53,98.14814814814815
+Premium Auction / Showcase,0.75,54,5430.0,51,94.44444444444444
